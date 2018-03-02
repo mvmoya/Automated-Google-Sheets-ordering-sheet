@@ -1,6 +1,6 @@
 
 /*
-* Welcome to the Heintz Lab Ordering sheet code!
+* Welcome to the Lab Ordering sheet code!
 * 
 * The first function (onEdit()) has multiple jobs:
 * It creates a new empty row at the top of the sheet (with the right formatting) after a new order is completed in the new order row.
